@@ -1,4 +1,4 @@
-# Diccionario de Datos — Data Mart de Siniestralidad Vial
+# Diccionario de Datos — DataMart de Siniestralidad Vial
 
 ## DIM_FECHA
 
